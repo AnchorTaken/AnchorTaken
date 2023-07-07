@@ -15,11 +15,11 @@ I am front end to full stack developer with the focus of delivering interactive 
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on AOAI
+👩‍💻 I'm currently working on shhh
 
-🧠 I'm currently learning React Query, GSAP and HammerJS
+🧠 I'm currently in React rehab. Moved on to harder drugs like Vue
 
-📫 How to reach me: dms, emails any way you prefer
+📫 How to reach me: dont
 
 ⚡️ Fun fact: I have no life
 
