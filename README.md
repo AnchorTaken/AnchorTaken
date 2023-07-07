@@ -7,8 +7,7 @@ I am front end to full stack developer with the focus of delivering interactive 
 
 **TECHNOLOGIES I WORK WITH**
 
-![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/-Next.Js-black?style=for-the-badge&logo=nextdotjs)
+![Vue](https://img.shields.io/badge/-Vue-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
